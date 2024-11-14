@@ -1,7 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rishad 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/MrishadK)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-rishad-k-a5341731b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 ---
 
