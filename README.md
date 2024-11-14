@@ -14,19 +14,18 @@
 ---
 
 ### 🔧 Technologies & Tools
-- **Languages:** Java, Dart, C, C++, Python, R, SQL
+- **Languages:** Dart, C, C++, Python, R, SQL
 - **Frameworks & Libraries:** Flutter, TensorFlow, PyTorch
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Other Tools:** Git, Docker, Kubernetes, Google Cloud Platform
+- **Databases:** MySQL
+- **Other Tools:** Google Cloud Platform
 
 ---
 
 ### 🌟 Projects
 Here are a few of my notable projects:
 
-- **[Exoplanet Visualization App](https://github.com/yourusername/exoplanet-visualization):** A Flutter app that visualizes star catalogs and exoplanets from the perspective of an observer on a distant planet.
-- **[AR Food Menu](https://github.com/yourusername/ar-food-menu):** An augmented reality food menu app for immersive restaurant experiences.
-- **[E-commerce App](https://github.com/yourusername/e-commerce-app):** A stylish e-commerce app built with Flutter featuring a user-friendly UI, cart, and checkout options.
+- **[Exoplanet Visualization App](https://github.com/MrishadK/yspace):** A Flutter app that visualizes star catalogs and exoplanets from the perspective of an observer on a distant planet.
+- **[Farmer's Social App](https://github.com/MrishadK/FARMERS-s-APP):** A simple Farmer's app built with Flutter featuring a user-friendly UI, profile, and private message.
 
 ---
 
@@ -37,7 +36,7 @@ Here are a few of my notable projects:
 
 ### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- Email: yourname@example.com
+- Email: mrishad963@gmail.com
 
 ---
 
