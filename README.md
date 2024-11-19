@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I’m a final-year AI and Data Science engineering student passionate about technology, programming, and exploring the cosmos.
+- 🎓 I’m a final-year AI and Data Science engineering student passionate about technology and programming
 - 🚀 Experienced in **AI, Machine Learning, Deep Learning**, and **App Development**.
 - 🌌 I’m fascinated by space and often explore ideas related to **exoplanets** and **galaxies** in my projects.
 - 🧑‍🏫 I love sharing knowledge and contributing to **open-source projects**.
