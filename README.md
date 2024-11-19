@@ -35,7 +35,6 @@ Here are a few of my notable projects:
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammed-rishad-k-a5341731b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: mrishad963@gmail.com
 
 ---
