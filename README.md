@@ -16,7 +16,7 @@
 - **Languages:** Dart, C, C++, Python, R, SQL
 - **Frameworks & Libraries:** Flutter, TensorFlow, PyTorch
 - **Databases:** MySQL
-- **Other Tools:** Google Cloud Platform
+- **Other Tools:** Google Cloud Platform,SupaBase
 
 ---
 
