@@ -23,7 +23,7 @@
 ### 🌟 Projects
 Here are a few of my notable projects:
 
-- **[Exoplanet Visualization App](https://github.com/MrishadK/yspace):** A Flutter app that visualizes star catalogs and exoplanets from the perspective of an observer on a distant planet.
+- **[Masked Realm - Anime Tracker App](https://github.com/MrishadK/MaskedRealm--A-Anime-Tracker):**  A Flutter application that allows users to track, manage, and discover their favorite anime shows, with authentication and real-time database features powered by Supabase.
 - **[Farmer's Social App](https://github.com/MrishadK/FARMERS-s-APP):** A simple Farmer's app built with Flutter featuring a user-friendly UI, profile, and private message.
 
 ---
