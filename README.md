@@ -23,8 +23,10 @@
 ### 🌟 Projects
 Here are a few of my notable projects:
 
-- **[Masked Realm - Anime Tracker App](https://github.com/MrishadK/MaskedRealm--A-Anime-Tracker):**  A Flutter application that allows users to track, manage, and discover their favorite anime shows, with authentication and real-time database features powered by Supabase.
 - **[AI Resume Ranker](https://github.com/MrishadK/ai-resume-ranker):** An AI-powered resume ranking app built with Flutter and Flask, featuring resume upload, job description input, and PDF report generation.
+
+- **[AI Lead Enrichment](https://github.com/MrishadK/AI-LEAD-ENRICHMENT):**  AThis AI-powered tool automatically enriches company lead data using Google's Gemini AI. Simply upload a CSV with company names and receive detailed profiles including websites, industry information, company size, and AI automation ideas.
+    
 ---
 
 ### 💡 AI/ML Project Ideas
