@@ -23,7 +23,7 @@
 ### 🌟 Projects
 Here are a few of my notable projects:\
 
-
+- **[FitNice-AI Powered Fitness Assistant](https://play.google.com/store/apps/details?id=com.aitectra.fitnice&pcampaignid=web_share):** A mobile app (Android) that offers AI-generated workout plans and meal planning tools.
 
 - **[AI Resume Ranker](https://github.com/MrishadK/ai-resume-ranker):** An AI-powered resume ranking app built with Flutter and Flask, featuring resume upload, job description input, and PDF report generation.
 
