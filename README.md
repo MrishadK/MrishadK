@@ -41,8 +41,4 @@ Here are a few of my notable projects:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrishadK&show_icons=true&theme=radical)
-
----
-
 Thank you for visiting my GitHub profile! Let's build something amazing together!
