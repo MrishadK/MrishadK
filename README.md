@@ -52,15 +52,11 @@ I’m a **final-year AI & Data Science Engineering student** with a knack for bu
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Tech Stack Breakdown
 
 <div align="center">
-  <a href="https://github.com/MrishadK">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrishadK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrishadK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrishadK&theme=tokyonight" alt="Repos per Language" />
 </div>
-
 ---
 
 ### 💡 Let's Connect
