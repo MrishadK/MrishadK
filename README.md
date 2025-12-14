@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a **final-year AI & Data Science Engineering student** with a knack for building intelligent mobile applications. I bridge the gap between complex ML models and user-friendly interfaces.
+I’m an **AI & Data Science Engineering graduate** passionate about building intelligent, real-world applications.
 
 * 🔭 I’m currently working on **AI-powered mobile solutions**.
 * 🌱 I’m currently learning **Advanced Deep Learning Architectures**.
