@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Muhammed+Rishad+K+👋;AI+%26+Data+Science+Engineer;Flutter+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Muhammed+Rishad+K+👋;AI+%26+Data+Science+Engineer;Flutter+Developer;" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/MrishadK">
