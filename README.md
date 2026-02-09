@@ -46,7 +46,7 @@ I’m an **AI & Data Science Engineering graduate** passionate about building in
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[FitNice AI](https://play.google.com/store/apps/details?id=com.aitectra.fitnice&pcampaignid=web_share)** | 🏋️‍♂️ **AI Fitness Assistant**<br>Android app offering AI-generated workout plans and meal planning tools. | `Flutter` `AI` `Android` |
-| **[ProDine POS](https://github.com/MrishadK/Prodine-POS)** | 🍽️ **Restaurant POS System**<br>Cross-platform POS for restaurants with offline support, thermal printing, reporting, and licensing system. | `Flutter` `SQLite` `Windows` `POS` |
+| **[ProDine POS](https://github.com/MrishadK/Prodine-POS)** | 🍽️ **Restaurant POS System**<br>Windows platform POS for restaurants with offline support, thermal printing, reporting, and licensing system. | `Flutter` `SQLite` `Windows` `POS` |
 | **[AI Lead Enrichment](https://github.com/MrishadK/AI-LEAD-ENRICHMENT)** | 💼 **B2B Data Tool**<br>Enriches company lead data using Gemini AI to provide profiles, industry info, and automation ideas. | `Gemini AI` `Python` `CSV` |
 
 ---
