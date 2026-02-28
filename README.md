@@ -1,18 +1,5 @@
 
 
-### 🕹️ Take a Break: 1-Bit Rocket Shooter
-
-Click the screen below to play my custom 1-bit space shooter built with Flutter! 
-
-<div align="center">
-  <a href="https://your-github-username.github.io/1bit-shooter" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29teGJzNjR4dTh3Z3Z3cGN6dnh6c2c3Z3d6Z3h6Z3h6Z3h6Z3h6Z3h6/3o7TKSHA3T2Gg3gWd2/giphy.gif" width="500" alt="1-Bit Rocket Shooter Gameplay" />
-  </a>
-  <br>
-  <i>(Click the GIF to launch the game in your browser!)</i>
-</div>
-
-
 
 
 
