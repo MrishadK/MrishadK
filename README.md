@@ -1,11 +1,5 @@
-
-
-
-
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Muhammed+Rishad+K+👋;AI+%26+Data+Science+Engineer;Flutter+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Muhammed+Rishad+K+👋;AI+%26+Data+Science+Engineer;Flutter+Developer;Turning+Coffee+Into+Neural+Networks;" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/MrishadK">
@@ -20,24 +14,27 @@
   </p>
 </div>
 
----
-
-### 👨‍💻 About Me
-
-I’m an **AI & Data Science Engineering graduate** passionate about building intelligent, real-world applications.
-
-* 🔭 I’m currently working on **AI-powered mobile solutions**.
-* 🌱 I’m currently learning **Advanced Deep Learning Architectures**.
-* 👯 I’m looking to collaborate on **Open Source AI/ML projects**.
-* 💬 Ask me about **Flutter, Python, and Machine Learning**.
+> *"I build AI models to optimize my life so I have more time to debug my AI models."*
 
 ---
 
-### 🛠️ Technologies & Tools
+### 👨‍💻 The Professional (Yet Highly Caffeinated) Me
+
+I’m an **AI & Data Science Engineering graduate** passionate about building intelligent, real-world applications. When I'm not waiting for my epochs to finish training, I'm usually over-engineering UI components in Flutter.
+
+* 🔭 **Currently working on:** AI-powered mobile solutions (making sure our future robot overlords have a great user interface).
+* 🌱 **Currently learning:** Advanced Deep Learning Architectures (trying to figure out what the hidden layers are actually hiding).
+* 👯 **Looking to collaborate on:** Open Source AI/ML projects (if you have clean datasets, we are instantly best friends).
+* 💬 **Ask me about:** Flutter, Python, Machine Learning, or why my model's loss is suddenly `NaN`.
+* ⚡ **Fun fact:** I built an AI fitness app but spend 90% of my day sitting in a desk chair. Balance, right?
+
+---
+
+### 🛠️ The "Things I Claim to Know on StackOverflow" Stack
 
 <div align="center">
 
-| **Languages** | **AI & ML** | **Development** | **Data & Cloud** |
+| **Languages (Mostly Machine)** | **AI & ML (Brain Simulation)** | **Development (Making it Pretty)** | **Data & Cloud (Where it Lives)** |
 | :---: | :---: | :---: | :---: |
 | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
@@ -47,17 +44,18 @@ I’m an **AI & Data Science Engineering graduate** passionate about building in
 </div>
 
 ---
-### 🌟 Featured Projects
+
+### 🌟 Featured Projects (Stuff that actually compiles)
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[FitNice AI](https://play.google.com/store/apps/details?id=com.aitectra.fitnice&pcampaignid=web_share)** | 🏋️‍♂️ **AI Fitness Assistant**<br>Android app offering AI-generated workout plans and meal planning tools. | `Flutter` `AI` `Android` |
-| **[ProDine POS](https://github.com/MrishadK/Prodine-POS)** | 🍽️ **Restaurant POS System**<br>Windows platform POS for restaurants with offline support, thermal printing, reporting, and licensing system. | `Flutter` `SQLite` `Windows` `POS` |
-| **[AI Lead Enrichment](https://github.com/MrishadK/AI-LEAD-ENRICHMENT)** | 💼 **B2B Data Tool**<br>Enriches company lead data using Gemini AI to provide profiles, industry info, and automation ideas. | `Gemini AI` `Python` `CSV` |
+| **[FitNice AI](https://play.google.com/store/apps/details?id=com.aitectra.fitnice&pcampaignid=web_share)** | 🏋️‍♂️ **AI Fitness Assistant**<br>Android app offering AI-generated workout plans and meal planning tools. *It tells you to work out so I don't have to.* | `Flutter` `AI` `Android` |
+| **[ProDine POS](https://github.com/MrishadK/Prodine-POS)** | 🍽️ **Restaurant POS System**<br>Windows platform POS with offline support, thermal printing, and reporting. *Because even AI engineers need to eat.* | `Flutter` `SQLite` `Windows` |
+| **[AI Lead Enrichment](https://github.com/MrishadK/AI-LEAD-ENRICHMENT)** | 💼 **B2B Data Tool**<br>Enriches company lead data using Gemini AI to provide profiles and automation ideas. *Legally "enriching" data.* | `Gemini AI` `Python` `CSV` |
 
 ---
 
-### 📊 Tech Stack Breakdown
+### 📊 GitHub Stats (Proof I write code)
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrishadK&theme=tokyonight" alt="Repos per Language" />
@@ -65,10 +63,11 @@ I’m an **AI & Data Science Engineering graduate** passionate about building in
 
 ---
 
-### 💡 Let's Connect
+### 💡 Let's Connect!
+
 <p align="center">
-I'm always brainstorming unique ideas for AI and ML projects with practical use cases.<br>
-Check out my repositories for inspiration, or feel free to reach out if you'd like to collaborate!
+I'm always brainstorming unique ideas for AI/ML projects that solve real problems (or just do cool things). <br>
+If you want to talk tech, collaborate on an open-source project, or debate whether AGI is coming next Tuesday, hit me up!
 </p>
 
 <div align="center">
