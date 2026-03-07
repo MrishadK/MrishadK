@@ -24,7 +24,8 @@ Beyond pure software, I enjoy tackling hardware integration and IoT projects, ap
 
 * 🔭 **Currently working on:** AI-powered mobile solutions and robust point-of-sale architecture.
 * 🌱 **Currently exploring:** Advanced Deep Learning architectures and scalable backend integration.
-* ⚙️ **Hobbyist Pursuits:** Web scraping automation and microcontroller-based hardware projects.
+* 🖥️ **Interested in:** Building Flutter-based desktop applications for Windows.
+* ⚙️ **Hobbyist Pursuits:** DIY electronics, Arduino/ESP32 projects, and hardware prototyping.
 * 💬 **Ask me about:** Flutter UI/UX, predictive modeling, Python, and relational databases.
 
 ---
