@@ -8,8 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2196F3&height=220&section=header&text=Muhammed%20Rishad%20K&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Builder&descSize=16&descAlignY=55&descAlign=50" width="100%" />
 
   <!-- ✦ Typing Animation ✦ -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Muhammed+Rishad+K+👋;Final-Year+AI+%26+Data+Science+Engineer;Flutter+%26+Backend+Developer;Building+Intelligent+Systems;" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Muhammed+Rishad+K+👋;AI+%26+Data+Science+Engineer;Flutter+Developer;Open-Source+Contributor;Building+AI-Powered+Applications" alt="Typing SVG" />
   <br/>
 
   <!-- ✦ Profile Badges ✦ -->
