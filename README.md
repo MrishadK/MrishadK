@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,50:2196F3,100:00E5FF&height=240&section=header&text=Muhammed%20Rishad%20K&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Builder&descSize=18&descAlignY=58" width="100%" alt="Muhammed Rishad K, AI Engineer, Flutter Developer, Builder" />
 
 <!-- Self-hosted typing animation (assets/typing.svg), no third-party service needed -->
-<img src="assets/typing.svg" width="720" height="50" alt="Typing animation: Hi there! I'm Muhammed Rishad K, AI and Data Science Engineer, Flutter Developer, Open-Source Contributor" />
+<img src="assets/typing.svg" width="720" height="50" alt="Typing animation: Hi there! I'm Muhammed Rishad K, AI and Data Science Engineer, Flutter Developer" />
 
 <br/>
 
@@ -45,7 +45,7 @@ Beyond pure software, I enjoy hardware integration and IoT projects, bringing th
 ```python
 class MuhammedRishad:
     name      = "Muhammed Rishad K"
-    roles     = ["AI & Data Science Engineer", "Flutter Developer", "Open-Source Contributor"]
+    roles     = ["AI & Data Science Engineer", "Flutter Developer"]
     focus     = "AI & ML"
     location  = "India"
     languages = ["English", "Malayalam"]
