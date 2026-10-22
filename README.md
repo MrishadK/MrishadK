@@ -57,25 +57,25 @@ class MuhammedRishad:
 <table align="center">
   <tr>
     <td colspan="2" width="33%" valign="top">
-      <h4>🔭 Working on</h4>
+      <h4>Working on</h4>
       AI-powered mobile solutions and robust point-of-sale architecture.
     </td>
     <td colspan="2" width="33%" valign="top">
-      <h4>🌱 Exploring</h4>
+      <h4>Exploring</h4>
       Advanced Deep Learning architectures and scalable backend integration.
     </td>
     <td colspan="2" width="33%" valign="top">
-      <h4>🖥️ Interested in</h4>
+      <h4>Interested in</h4>
       Building Flutter-based desktop applications for Windows.
     </td>
   </tr>
   <tr>
     <td colspan="3" width="50%" valign="top">
-      <h4>⚙️ Hobbyist pursuits</h4>
+      <h4>Hobbyist pursuits</h4>
       DIY electronics, Arduino/ESP32 projects, and hardware prototyping.
     </td>
     <td colspan="3" width="50%" valign="top">
-      <h4>💬 Ask me about</h4>
+      <h4>Ask me about</h4>
       Flutter UI/UX, predictive modeling, Python, and relational databases.
     </td>
   </tr>
