@@ -16,7 +16,6 @@
 <a href="https://www.linkedin.com/in/muhammed-rishad-k-a5341731b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mrishad963@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://github.com/MrishadK"><img src="https://img.shields.io/github/followers/MrishadK?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=2196F3&labelColor=0d1117" alt="GitHub followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=MrishadK&style=for-the-badge&label=Profile+views&color=7C4DFF&labelColor=0d1117" alt="Profile views" />
 
 <br/><br/>
 
